@@ -1,3 +1,5 @@
+Based on http://moprea.ro/2011/04/07/magento-debug-toolbar
+
 to local.xml:
 <profiler>1</profiler> in:
 
