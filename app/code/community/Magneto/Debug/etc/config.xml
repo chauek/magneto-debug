@@ -149,7 +149,6 @@
     <default>
         <debug>
             <options>
-                <enable>1</enable>
                 <debug_panel_versions_visibility>1</debug_panel_versions_visibility>
                 <debug_panel_performance_visibility>1</debug_panel_performance_visibility>
                 <debug_panel_configuration_visibility>1</debug_panel_configuration_visibility>
